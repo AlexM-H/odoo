@@ -48,14 +48,14 @@ msgstr ""
 #: code:addons/board/static/src/xml/board.xml:64
 #, python-format
 msgid "Add to my Dashboard"
-msgstr ""
+msgstr "Ajouter a mon tableau de bord"
 
 #. module: board
 #. openerp-web
 #: code:addons/board/static/src/js/dashboard.js:139
 #, python-format
 msgid "Are you sure you want to remove this item ?"
-msgstr ""
+msgstr "Etes-vous sur de vouloir retirer cet item"
 
 #. module: board
 #: model:ir.model,name:board.model_board_board
@@ -96,14 +96,14 @@ msgstr ""
 #: code:addons/board/static/src/xml/board.xml:36
 #, python-format
 msgid "Choose dashboard layout"
-msgstr ""
+msgstr "Choisissez la disposition du tableau de bord"
 
 #. module: board
 #. openerp-web
 #: code:addons/board/static/src/js/dashboard.js:408
 #, python-format
 msgid "Could not add filter to dashboard"
-msgstr ""
+msgstr "Ajout de filtre au tableau de bord impossible "
 
 #. module: board
 #: model:ir.ui.view,arch_db:board.view_board_create
